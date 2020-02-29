@@ -29,7 +29,6 @@ ViewGroup mylayout;
                 }
             }
         );
-        //HELPING
     }
     public void moveButton(){
        TransitionManager.beginDelayedTransition(mylayout);
